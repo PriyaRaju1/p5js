@@ -1,0 +1,57 @@
+"apply here" OR "apply now" OR "apply online" OR "candidate must possess" OR "entry level" OR "FT-days" OR "full time job" OR 
+"healthcare job" OR "healthcare jobs" OR "HR job" OR "HR jobs" OR "job alert" OR "job alerts" OR "job description" OR "job finder" OR "job 
+listing" OR "job listings" OR "job opening" OR "job openings" OR "job posting" OR "job postings" OR "job search" OR "job summary" OR 
+"jobid" OR "jobs for you" OR "jobs in" OR "jobsource" OR "latest jobs" OR "qualified candidate" OR "search hospital job" OR "seeking 
+professional" OR "seeking qualified" OR "send application" OR "send resume" OR "technologies job" OR "technology job" OR "top pay" OR 
+"beloved husband" OR "beloved wife" OR "burial" OR "buried at" OR "buried in" OR "cemetary" OR "cemetery" OR "Condolences may be" 
+OR "cremated" OR "cremation" OR "Death Notice" OR "death notices" OR "died suddenly" OR "died unexpectedly" OR "eternal rest" OR 
+"expressions of sympathy" OR "funeral" OR "husband died" OR "in lieu of" OR "in memoriam" OR "lieu of flowers" OR "Mausoleum" OR 
+"memorial gathering" OR "memorial service" OR "memorial services" OR "mourners" OR "obit" OR "obits" OR "obituaries" OR "obituary" OR 
+"online guest book" OR "online guestbook" OR "Paid notice deaths" OR "passed away" OR "Preceded in death" OR "Rest in Peace" OR 
+"sign guestbook" OR "survived by her" OR "survived by his" OR "survived by husband" OR "survived by wife" OR "Survivors include" OR 
+"Visitation begins" OR "Visitation will be" OR "Visitation will begin" OR "wife died" OR "with the Lord" OR "10% off" OR "15% off" OR "20% 
+off" OR "25% off" OR "30% off" OR "40% off" OR "5% off" OR "50% off" OR "60% off" OR "70% off" OR "75% off" OR "80% off" OR 
+"afternoon deals" OR "bargain" OR "best deals" OR "best price" OR "best priced" OR "BOGO" OR "Bons de réduction" OR "buy of the 
+week" OR "buy one and get one" OR "buy one get" OR "buy the deal" OR "cash back" OR "cheap prices" OR "clearance" OR "closeouts" 
+OR "coupon" OR "coupons" OR "cupon" OR "Cupón" OR "cupons" OR "Cupóns" OR "CVS Ad" OR "CVS deal" OR "CVS deals" OR "CVS 
+matchups" OR "daily deals" OR "deal is brought to you" OR "deal of the day" OR "deal of the week" OR "Deals at CVS" OR "deals by 
+subscribing" OR "Deals of the Day" OR "deals of the week" OR "discount" OR "discounts" OR "dollar general deals" OR "doubler" OR 
+"ecoupon" OR "ecoupons" OR "fast shipping" OR "for as low as" OR "for sale" OR "freebie" OR "freebies" OR "Get a 12-month" OR "get 
+one free" OR "get one half off" OR "get the deal" OR "giant eagle deals" OR "Giveaway" OR "giveaways" OR "Go HERE to get yours" OR 
+"HOT DEALS" OR "Kroger Ad" OR "Kroger Mega Event" OR "low price" OR "low priced" OR "lowest priced" OR "lowest prices" OR "Money 
+back guarantee" OR "morning deals" OR "no prescription needed" OR "off with code" OR "on sale" OR "overnight delivery" OR "overnight 
+shipping" OR "prices won't be beat" OR "printables" OR "Promo Code" OR "promotional code" OR "rebate" OR "rebates" OR "redeem your 
+voucher" OR "rite-aid deals" OR "save $1 off" OR "save $1 on" OR "SAVE $1.00 ON" OR "save $2 off" OR "save $2 on" OR "SAVE $2.00 
+ON" OR "save $3 off" OR "season sale" OR "send you a voucher" OR "shipping and handling" OR "shop with us" OR "Staples deals" OR 
+"Start saving today" OR "steals and deals" OR "subscribe offer" OR "target deal" OR "Target deals" OR "this week at Target" OR "top deals" 
+OR "Walgreen deals" OR "Walmart Deals" OR "Walmart Gift Card" OR "Walmart gift cards" OR "weekly ad" OR "weekly ads" OR "weekly 
+wonder" OR "wowcher" OR "market report" OR "market reports" OR "market research report" OR "market research reports" OR "market 
+insights report" OR "market insight report" OR "wise guy reports" OR "fast market research" OR "future market insights" OR 
+"marketandmarkets" OR "reportlinker" OR url:("http://fastmr.com *" OR "http://www.futuremarketinsights.com *" OR 
+"http://www.grandviewresearch.com *" OR "www.marketresearchint.com*" OR "www.marketresearchreports.biz*" OR 
+"http://www.marketsandmarkets.com *" OR "http://www.micromarketmonitor.com *" OR "http://www.persistencemarketresearch.com *" OR 
+"http://www.qyresearchglobal.com *" OR "http://www.reportbuyer.com *" OR "http://www.reportlinker.com *" OR 
+"http://www.reportsnreports.com *" OR "http://www.reportstack.com *" OR "http://www.researchandmarkets.com *" OR 
+"http://www.researchbeam.com *" OR "http://www.rnrmarketresearch.com *" OR "http://www.transparencymarketresearch.com *" OR 
+"www.visiongainglobal.com*" OR "http://www.absolutereports.com *" OR "http://www.briskinsights.com *" OR 
+"http://www.credenceresearch.com *" OR "http://www.industryarc.com *" OR "www.researchmoz.us*" OR "http://www.themarketreports.com 
+*" OR "http://www.wiseguyreports.com *") OR url:("http://www.marketresearchledger.com *" OR "http://www.amarketresearchgazette.com *" 
+OR "http://www.ourcryptojournal.com *" OR "http://www.industrydailyobserver.com *" OR "http://www.rnrmarketresearch.com *" OR 
+"www.markets.ask.com*" OR "www.markets.winslowevanscrocker.com*") OR title:("Research and Markets" OR "The Resident" OR 
+"Charmed" OR "Funniest Home Videos" OR "Young and the Restless" OR "The Price is Right" OR "Whose Line Is It Anyway" OR "Wipeout" 
+OR "Prodigal Son" OR "Hitler" OR "Outer Limits" OR "Living Single" OR "Family Matters" OR "NUMB3RS" OR "Black-ish" OR "M A S H" OR 
+"Blind Date" OR "9-1-1" OR "Ridiculousness" OR "The Transplant" OR "Judge Judy") OR url:("http://www.fitnell.com *" OR 
+"http://www.tblogz.com *" OR "http://www.digiblogbox.com *" OR "http://www.blogzet.com *" OR "http://www.blogminds.com *" OR 
+"http://www.jiliblog.com *" OR "http://www.alltdesign.com *" OR "http://www.isblog.net *" OR "www.forumlo.cjb.net*" OR 
+"http://www.ukessays.com *" OR "http://www.customerserviceguru.co.uk *" OR "http://www.marketplace.asos.com *" OR 
+"www.padremariodalixa.cjb.net*" OR "http://www.instagram.com *" OR "www.wikipediajapan.org*" OR "http://www.uvlookup.com *" OR 
+"www.oino.site" OR "http://www.kijiji.ca *" OR "http://www.livejournal.com *" OR "http://www.tumblr.com *" OR "http://www.pinterest.com *" 
+OR "http://www.finder.com *" OR "http://www.finder.com.au *" OR "http://www.shafaqna.com *" OR "http://www.youtube.com *" OR 
+"http://www.gta-five-forum.com *" OR "www.medicalhealthnews.net*" OR "www.thehillnews.net*" OR "www.betfaq.com*" OR 
+"www.nachrichten365.info*" OR "http://www.webwinkelforum.nl *" OR "http://www.dealdoktor.de *" OR "http://www.kufnet.at *" OR 
+"http://www.kiezkicker.de *" OR "http://www.reviewcentre.com *" OR "http://www.calguns.net *" OR "www.wishseebuy.com*" OR 
+"www.katakata-mutiara.com*" OR "http://www.r10.net *" OR "http://www.apkmirror.com *" OR "http://www.profvb.com *" OR "www.k965.net*" 
+OR "http://www.evilyoshida.com *" OR "http://www.computerhope.com *" OR "www.community.lazypoets.com*" OR 
+"http://www.wweforums.net *" OR "http://www.phoneforum.net *" OR "www.stockaholics.com*" OR "http://www.marketcheetah.com *" OR 
+"www.bibeypost.com*" OR "http://www.shiftmotors.com *" OR "www.markets.ft.com*" OR "http://www.imdb.com *" OR "http://www.sec.gov *" 
+OR "http://www.niketalk.com *")
